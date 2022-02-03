@@ -50,5 +50,6 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
 [Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
 
-
+* Como forma de praticar os conceitos apresentados nesta live, adicionei ao projeto uma classe Address (Endereço) com os devidos relacionamentos com a classe Person.
+* Também foi modificado o Test para incluir a nova classe adicionada. 
 
